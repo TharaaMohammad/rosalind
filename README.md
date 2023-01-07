@@ -1,2 +1,2 @@
 # rosalind
-My solutions to rosalind problems
+My solutions to rosalind problems.
