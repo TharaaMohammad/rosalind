@@ -7,4 +7,3 @@ count["T"] = 0
 for n in input_dna:
     count[n]+=1
 print(*count.values())
-
