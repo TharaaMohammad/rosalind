@@ -15,3 +15,12 @@ for key_1 in dic_strings:
                 #print(dic_strings[key_1][-3:], dic_strings[key_2][:3])
 
 input_data.close()
+import numpy as np
+a = np.zeros((4,4))
+a[1][2] = 1
+a[2][1] = 1
+
+a[2][3] = 1
+a[3][2] = 1
+
+print(a)
